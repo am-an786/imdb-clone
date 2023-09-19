@@ -1,4 +1,6 @@
 # imdb-clone
+
+github link:- https://github.com/am-an786/imdb-clone
 My name is Md Aman
 in this project i tried to replecate the features of imdb
 which is for front end skill test in coding ninjas
